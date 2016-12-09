@@ -1,0 +1,8 @@
+this is an example log file
+todo: this is an example todo
+eventually this program should work for any type of text file
+eg source code
+not just log files
+TODO: add the ability to loop recursively through a folder structure too
+todo: user can specify allowed file extensions,John,enhancement
+and add an optional delimeter to parse the todo message content into multiple columns
